@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 12 16:10:58 2018
-
-@author: Ester Quintino
-"""
 import json
 
 with open ("arquivo.json", "r") as arquivo:
